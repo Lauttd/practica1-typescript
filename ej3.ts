@@ -1,4 +1,4 @@
-class Empleado {
+export class Empleado {
     protected nombre: string;
     protected antiguedad: number;
 
